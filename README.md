@@ -1,2 +1,2 @@
 # Basic-numerical-computations-with-python
- print list of prime numbers ,print list of  even numbers in the given range
+ print list of prime numbers ,print list of  even numbers in the given range, print  GCD and LCM of numbers given...
